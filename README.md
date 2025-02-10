@@ -1,5 +1,5 @@
 # LBOT - API's para comandos
-Conjunto de API's que são usados para os comandos do LBOT (https://github.com/victorsouzaleal/lbot-whatsapp)
+Conjunto de API's que são usados para os comandos do DBot (https://github.com/danecool/DBot)
 
 ### O projeto está aberto para quem quiser contribuir ou utilizar em um outro bot
 
