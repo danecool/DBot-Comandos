@@ -1,11 +1,11 @@
 {
-  "name": "@victorsouzaleal/lbot-api-comandos",
+  "name": "@danecool/DBot-Comandos",
   "version": "1.1.1",
   "description": "Conjunto de API's que são usados para os comandos do LBOT",
   "main": "build/api.js",
   "types": "build/api.d.ts",
-  "repository": "https://github.com/victorsouzaleal/lbot-api-comandos.git",
-  "author": "victorsouzaleal <victorsouzaleal@gmail.com>",
+  "repository": "https://github.com/danecool/DBot-Comandos.git",
+  "author": "danecool <danecool@gmail.com>",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -17,7 +17,7 @@
     "@deepgram/sdk": "^3.5.1",
     "@distube/ytdl-core": "^4.16.0",
     "@tobyg74/tiktok-api-dl": "^1.1.9",
-    "@victorsouzaleal/brasileirao": "^1.0.0",
+    "@danecool/brasileirao": "^1.0.0",
     "@victorsouzaleal/googlethis": "^1.8.1",
     "@vitalets/google-translate-api": "^7.0.0",
     "axios": "^1.7.4",
